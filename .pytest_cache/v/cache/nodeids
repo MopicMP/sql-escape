@@ -1,0 +1,5 @@
+[
+  "tests/test_sql_escape.py::TestEscape::test_basic",
+  "tests/test_sql_escape.py::TestEscape::test_empty",
+  "tests/test_sql_escape.py::TestEscape::test_type_error"
+]
